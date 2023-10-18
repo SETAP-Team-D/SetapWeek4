@@ -11,3 +11,6 @@ Ans: There will be a login system where users can create account by putting thei
 
 How many days in advance and how often would you like to be notified?
 10 days before prescription is due, every month
+
+What will be your preferred method of receiving reminders about your prescription pick-ups or renewals?(eg, app notifications, email notifications,text messages)
+-Text messages and email.
