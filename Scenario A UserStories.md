@@ -12,8 +12,8 @@ Ans: There will be a login system where users can create account by putting thei
 Q-2: How many days in advance and how often would you like to be notified?
 10 days before prescription is due, every month
 
-Q-3: What will be your preferred method of receiving reminders about your prescription pick-ups or renewals?(eg, app notifications, email notifications,text messages)
--Text messages and email.
+**Q3 >>**: What will be your preferred method of receiving reminders about your prescription pick-ups or renewals?(eg, app notifications, email notifications,text messages)
+**A >>**  Text messages and email.
 
 Q-4 : What do you expect to happen if you can't pick up your prescription on a certain day? 
 After getting notified on a pick up date, I should be able to change to another date that suits me better. A deadline will be given before I have to re-order. 
