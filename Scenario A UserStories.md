@@ -14,3 +14,6 @@ How many days in advance and how often would you like to be notified?
 
 What will be your preferred method of receiving reminders about your prescription pick-ups or renewals?(eg, app notifications, email notifications,text messages)
 -Text messages and email.
+
+What do you expect to happen if you can't pick up your prescription on a certain day? 
+After getting notified on a pick up date, I should be able to change to another date that suits me better. A deadline will be given before I have to re-order. 
