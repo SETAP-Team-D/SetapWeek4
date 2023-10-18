@@ -17,3 +17,7 @@ Q-3: What will be your preferred method of receiving reminders about your prescr
 
 Q-4 : What do you expect to happen if you can't pick up your prescription on a certain day? 
 After getting notified on a pick up date, I should be able to change to another date that suits me better. A deadline will be given before I have to re-order. 
+
+**Q5 >>** Would they like to have paid delivery options in case they can't make it?
+
+**A >>** Yes home delivery of the medicine is preferred with a service charge in case the patient is too busy to pickup themselves but it should be a signed one not just being dropped off at the mail box kind.
